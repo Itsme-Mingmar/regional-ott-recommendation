@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node (just in case)
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter notebooks (optional)
+.ipynb_checkpoints/
+
+# Model (OPTIONAL - see below)
+# model/similarity.pkl
